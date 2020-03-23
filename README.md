@@ -24,10 +24,17 @@ Description:	A shortage of proper fitting and proper grade masks is negatively i
 			  this software with anyone and everyone you can think of that may be able to use it.
 
 Requirements:
-1. Meshmixer 3.5 (http://www.meshmixer.com/download.html)
+1. Meshmixer 3.5
+
+	(http://www.meshmixer.com/download.html)
+
 2. Windows (64-bit) 				
-3. Visual C++ Runtime Libraries  (https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads)
-				                 (https://aka.ms/vs/16/release/vc_redist.x64.exe)
+3. Visual C++ Runtime Libraries
+
+	(https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads)
+
+	(https://aka.ms/vs/16/release/vc_redist.x64.exe)
+
 4. All File Contents:
 
 			-MeshMask.exe
