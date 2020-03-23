@@ -28,7 +28,8 @@ Requirements:
 2. Windows (64-bit) 				
 3. Visual C++ Runtime Libraries  (https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads)
 				                 (https://aka.ms/vs/16/release/vc_redist.x64.exe)
-4. 	All File Contents:
+4. All File Contents:
+
 			-MeshMask.exe
 			-------------/parts/hook.obj
 			-------------/parts/nanohackMaskAttachment.obj
