@@ -4,12 +4,12 @@ Use Autodesk Meshmixer to Generate Custom Facemasks [COVID-19 RESPONSE EFFORT]
 MeshMask [v1.0] - README
 
 
-**  THIS SOFTWARE SHOULD ALWAYS BE FREE TO USE AND DOWNLOAD                                  **
-**  THIS SOFTWARE WAS CREATED DURING A GLOBAL PANDEMIC IN AN ATTEMPT TO HELP THOSE IN NEED.  **
-**  THIS SOFTWARE IS NOT INTENDED FOR CLINICAL USE.                                          **
-**  THIS SOFTWARE HAS NOT BEEN RIGOROUSLY TESTED.                                            **
-**  THIS SOFTWARE IS NOT APPROVED BY THE FDA.                                                **
-**  USE AT YOUR OWN MEDICAL-LEGAL RISK.                                                      **
+##  THIS SOFTWARE SHOULD ALWAYS BE FREE TO USE AND DOWNLOAD                                  ##
+##  THIS SOFTWARE WAS CREATED DURING A GLOBAL PANDEMIC IN AN ATTEMPT TO HELP THOSE IN NEED.  ##
+##  THIS SOFTWARE IS NOT INTENDED FOR CLINICAL USE.                                          ##
+##  THIS SOFTWARE HAS NOT BEEN RIGOROUSLY TESTED.                                            ##
+##  THIS SOFTWARE IS NOT APPROVED BY THE FDA.                                                ##
+##  USE AT YOUR OWN MEDICAL-LEGAL RISK.                                                      ##
 
 Author:		Kevin Yoder, DDS
 Contact:	DrYoder@CSofDentistry.com  (https://www.youtube.com/c/ComputerScienceofDentistry)
