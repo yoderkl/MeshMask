@@ -4,12 +4,12 @@ Use Autodesk Meshmixer to Generate Custom Facemasks [COVID-19 RESPONSE EFFORT]
 MeshMask [v1.0] - README
 
 
---  THIS SOFTWARE SHOULD ALWAYS BE FREE TO USE AND DOWNLOAD                                  --
---  THIS SOFTWARE WAS CREATED DURING A GLOBAL PANDEMIC IN AN ATTEMPT TO HELP THOSE IN NEED.  --
---  THIS SOFTWARE IS NOT INTENDED FOR CLINICAL USE.                                          --
---  THIS SOFTWARE HAS NOT BEEN RIGOROUSLY TESTED.                                            --
---  THIS SOFTWARE IS NOT APPROVED BY THE FDA.                                                --
---  USE AT YOUR OWN MEDICAL-LEGAL RISK.                                                      --
+	--  THIS SOFTWARE SHOULD ALWAYS BE FREE TO USE AND DOWNLOAD                                  --
+	--  THIS SOFTWARE WAS CREATED DURING A GLOBAL PANDEMIC IN AN ATTEMPT TO HELP THOSE IN NEED.  --
+	--  THIS SOFTWARE IS NOT INTENDED FOR CLINICAL USE.                                          --
+	--  THIS SOFTWARE HAS NOT BEEN RIGOROUSLY TESTED.                                            --
+	--  THIS SOFTWARE IS NOT APPROVED BY THE FDA.                                                --
+	--  USE AT YOUR OWN MEDICAL-LEGAL RISK.                                                      --
 
 Author:		Kevin Yoder, DDS
 
@@ -18,6 +18,7 @@ Contact:	DrYoder@CSofDentistry.com  (https://www.youtube.com/c/ComputerScienceof
 Date:		3/23/2020
 
 Download:	link
+
 Description:	A shortage of proper fitting and proper grade masks is negatively impacting the healthcare community during this time.
 			  This software takes a 3D scan of a face as input, and will generate a sealed, custom-fit facemask that can be 3D printed.
 			  This output of the Custom Facemask tool is intended to be a base for further development or modification.  I have included
