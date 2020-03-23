@@ -11,13 +11,10 @@ MeshMask [v1.0] - README
 	--  THIS SOFTWARE IS NOT APPROVED BY THE FDA.                                                --
 	--  USE AT YOUR OWN MEDICAL-LEGAL RISK.                                                      --
 
-Author:		Kevin Yoder, DDS
-
-Contact:	DrYoder@CSofDentistry.com  (https://www.youtube.com/c/ComputerScienceofDentistry)
-
-Date:		3/23/2020
-
-Download:	link
+	Author:		Kevin Yoder, DDS
+	Contact:	DrYoder@CSofDentistry.com  /  (https://www.youtube.com/c/ComputerScienceofDentistry)
+	Date:		3/23/2020
+	Download:	link
 
 Description:	A shortage of proper fitting and proper grade masks is negatively impacting the healthcare community during this time.
 			  This software takes a 3D scan of a face as input, and will generate a sealed, custom-fit facemask that can be 3D printed.
